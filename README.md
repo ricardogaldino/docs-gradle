@@ -1,2 +1,1 @@
-# docs-gradle
-Gradle
+# Gradle
